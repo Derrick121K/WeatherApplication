@@ -20,7 +20,7 @@ there are four EditTexs for Days,Weather Conditions also minimum and maximum tem
 when the user click the process button without providing the necessary data that App will show an error taking the user to the last page.
 On the last page:
 the last page also has it unique style with four TextViews and a Home button
-if the user has provided the necessary information the App will diplay all captured data and provide the user with the data 
+if the user has provided the necessary information the App will display all captured data and provide the user with the data 
 else when no information is capture the App will not show any data.
 The Application can be used for educational and information provider for every user 
 helping users to know more about the change in weather system
